@@ -1,0 +1,104 @@
+ID_Pedido,Data_Compra,Cliente_ID,Produto,Categoria,Quantidade,Preco_Unitario,Status_Entrega
+1001,2026-06-25,109.0,Smartwatch,Eletrônicos,1.0,5999.9,Cancelado
+1002,2026-06-13,135.0,Smartwatch,Eletrônicos,3.0,8500.0,Entregue
+1003,2026-06-05,113.0,Smartwatch,Acessórios,3.0,799.5,Entregue
+1004,2026-06-20,130.0,Smartwatch,Acessórios,4.0,2100.0,Entregue
+1005,2026-06-25,147.0,Smartwatch,Acessórios,4.0,850.0,Cancelado
+1006,2026-06-29,114.0,Fone de Ouvido,Eletrônicos,,5999.9,Entregue
+1007,2026-06-09,107.0,Notebook,Eletrônicos,,8500.0,Entregue
+1008,2026-06-18,113.0,Smartwatch,Acessórios,,799.5,Entregue
+1009,2026-07-03,122.0,Smartphone,Acessórios,,2100.0,Entregue
+1010,2026-06-15,139.0,Smartphone,Acessórios,,850.0,Entregue
+1011,2026-06-23,120.0,Smartphone,Eletrônicos,,5999.9,Entregue
+1012,2026-06-20,115.0,Smartphone,Eletrônicos,4.0,8500.0,Entregue
+1013,2026-07-03,144.0,Fone de Ouvido,Acessórios,4.0,799.5,Pendente
+1014,2026-07-04,117.0,Smartphone,Acessórios,3.0,2100.0,Pendente
+1015,2026-06-22,146.0,Smartwatch,Acessórios,1.0,850.0,Entregue
+1016,2026-06-26,123.0,Teclado Mecânico,Eletrônicos,4.0,valor_invalido,Entregue
+1017,2026-07-14,125.0,Smartphone,Eletrônicos,4.0,8500.0,Entregue
+1018,2026-07-11,124.0,Fone de Ouvido,Acessórios,2.0,799.5,Entregue
+1019,2026-06-26,144.0,Fone de Ouvido,Acessórios,4.0,2100.0,Entregue
+1020,2026-07-18,140.0,Smartphone,Acessórios,4.0,850.0,Entregue
+1021,2026-06-30,128.0,Teclado Mecânico,Eletrônicos,2.0,5999.9,
+1022,2026-07-02,114.0,Smartphone,Eletrônicos,3.0,8500.0,
+1023,2026-07-22,144.0,Fone de Ouvido,Acessórios,4.0,799.5,
+1024,2026-07-01,100.0,Notebook,Acessórios,2.0,2100.0,Entregue
+1025,2026-07-14,124.0,Smartwatch,Acessórios,1.0,850.0,Entregue
+1026,2026-06-27,106.0,Fone de Ouvido,Eletrônicos,3.0,5999.9,Entregue
+1027,2026-07-22,108.0,Smartphone,Eletrônicos,1.0,8500.0,Entregue
+1028,2026-07-27,123.0,Smartwatch,Acessórios,1.0,799.5,Entregue
+1029,2026-07-02,100.0,Smartphone,Acessórios,2.0,2100.0,Entregue
+1030,2026-07-10,143.0,Smartphone,Acessórios,4.0,850.0,Entregue
+1031,2026-07-31,nan,Notebook,Eletrônicos,2.0,5999.9,Entregue
+1032,2026-07-21,123.0,Smartwatch,Eletrônicos,2.0,8500.0,Entregue
+1033,2026-07-08,110.0,Smartwatch,Acessórios,2.0,799.5,Entregue
+1034,2026-07-13,116.0,Notebook,Acessórios,2.0,2100.0,Entregue
+1035,2026-07-07,107.0,Fone de Ouvido,Acessórios,3.0,850.0,Entregue
+1036,2026-07-25,134.0,Smartphone,Eletrônicos,4.0,5999.9,Entregue
+1037,2026-07-13,134.0,Teclado Mecânico,Eletrônicos,1.0,8500.0,Pendente
+1038,2026-07-22,132.0,Smartphone,Acessórios,1.0,799.5,Entregue
+1039,2026-07-13,104.0,Smartphone,Acessórios,4.0,2100.0,Entregue
+1040,2026-07-14,141.0,Fone de Ouvido,Acessórios,1.0,850.0,Entregue
+1041,2026-08-01,138.0,Smartphone,Eletrônicos,4.0,5999.9,Entregue
+1042,2026-07-15,140.0,Notebook,Eletrônicos,1.0,8500.0,Entregue
+1043,2026-07-16,127.0,Notebook,Acessórios,2.0,799.5,Entregue
+1044,2026-07-29,106.0,Smartwatch,Acessórios,1.0,2100.0,Cancelado
+1045,2026-07-31,108.0,Teclado Mecânico,Acessórios,4.0,850.0,Pendente
+1046,2026-07-17,107.0,Smartphone,Eletrônicos,4.0,5999.9,Pendente
+1047,2026-07-18,111.0,Smartphone,Eletrônicos,4.0,8500.0,Entregue
+1048,2026-08-03,133.0,Fone de Ouvido,Acessórios,4.0,799.5,Entregue
+1049,2026-07-20,132.0,Notebook,Acessórios,4.0,2100.0,Entregue
+1050,2026-08-01,147.0,Teclado Mecânico,Acessórios,3.0,850.0,Entregue
+1051,2026-08-09,122.0,Smartwatch,Eletrônicos,50.0,5999.9,Entregue
+1052,2026-07-30,123.0,Notebook,Eletrônicos,1.0,8500.0,Pendente
+1053,2026-08-03,136.0,Smartwatch,Acessórios,4.0,799.5,Entregue
+1054,2026-07-30,134.0,Fone de Ouvido,Acessórios,1.0,2100.0,Cancelado
+1055,2026-08-22,143.0,Fone de Ouvido,Acessórios,4.0,850.0,Entregue
+1056,2026-08-21,139.0,Smartphone,Eletrônicos,4.0,5999.9,Pendente
+1057,2026-08-08,121.0,Teclado Mecânico,Eletrônicos,3.0,8500.0,Entregue
+1058,2026-08-21,126.0,Smartwatch,Acessórios,3.0,799.5,Entregue
+1059,2026-08-08,134.0,Notebook,Acessórios,2.0,2100.0,Entregue
+1060,2026-08-21,100.0,Fone de Ouvido,Acessórios,3.0,850.0,Entregue
+1061,2026-08-24,134.0,Smartphone,Eletrônicos,2.0,5999.9,Entregue
+1062,2026-08-14,136.0,Smartphone,Eletrônicos,2.0,8500.0,Cancelado
+1063,2026-08-29,146.0,Smartwatch,Acessórios,2.0,799.5,Entregue
+1064,2026-08-09,113.0,Fone de Ouvido,Acessórios,2.0,2100.0,Entregue
+1065,2026-08-07,102.0,Teclado Mecânico,Acessórios,2.0,850.0,Entregue
+1066,2026-08-22,100.0,Fone de Ouvido,Eletrônicos,1.0,5999.9,Entregue
+1067,2026-08-19,104.0,Smartwatch,Eletrônicos,3.0,8500.0,Entregue
+1068,2026-08-12,125.0,Smartwatch,Acessórios,2.0,799.5,Entregue
+1069,2026-08-30,113.0,Fone de Ouvido,Acessórios,4.0,2100.0,Entregue
+1070,2026-08-14,138.0,Smartwatch,Acessórios,3.0,850.0,Entregue
+1071,2026-08-20,126.0,Fone de Ouvido,Eletrônicos,3.0,5999.9,Entregue
+1072,2026-09-09,108.0,Notebook,Eletrônicos,2.0,8500.0,Entregue
+1073,2026-08-23,114.0,Fone de Ouvido,Acessórios,1.0,799.5,Entregue
+1074,2026-08-16,114.0,Fone de Ouvido,Acessórios,2.0,2100.0,Pendente
+1075,2026-08-30,125.0,Smartwatch,Acessórios,1.0,850.0,Entregue
+1076,2026-08-18,141.0,Smartwatch,Eletrônicos,4.0,5999.9,Entregue
+1077,2026-09-09,112.0,Smartphone,Eletrônicos,3.0,8500.0,Entregue
+1078,2026-09-05,131.0,Smartphone,Acessórios,4.0,799.5,Entregue
+1079,2026-08-20,138.0,Notebook,Acessórios,1.0,2100.0,Pendente
+1080,2026-09-11,148.0,Smartphone,Acessórios,1.0,850.0,Entregue
+1081,2026-09-05,131.0,Fone de Ouvido,Eletrônicos,4.0,5999.9,Entregue
+1082,2026-09-18,103.0,Smartwatch,Eletrônicos,1.0,8500.0,Entregue
+1083,2026-09-08,129.0,Smartphone,Acessórios,4.0,799.5,Entregue
+1084,2026-09-06,136.0,Smartphone,Acessórios,3.0,2100.0,Entregue
+1085,2026-09-20,122.0,Notebook,Acessórios,4.0,850.0,Entregue
+1086,2026-09-07,138.0,Notebook,Eletrônicos,3.0,5999.9,Entregue
+1087,2026-09-18,144.0,Fone de Ouvido,Eletrônicos,4.0,8500.0,Entregue
+1088,2026-09-23,114.0,Smartwatch,Acessórios,1.0,799.5,Entregue
+1089,2026-09-26,142.0,Notebook,Acessórios,4.0,2100.0,Entregue
+1090,2026-08-30,128.0,Smartphone,Acessórios,1.0,850.0,Entregue
+1091,2026-09-24,135.0,Smartwatch,Eletrônicos,4.0,5999.9,Entregue
+1092,2026-09-09,112.0,Smartwatch,Eletrônicos,4.0,8500.0,Entregue
+1093,2026-09-22,131.0,Smartphone,Acessórios,2.0,799.5,Cancelado
+1094,2026-09-29,106.0,Notebook,Acessórios,1.0,2100.0,Entregue
+1095,2026-09-12,121.0,Smartphone,Acessórios,2.0,850.0,Entregue
+1096,2026-09-06,127.0,Smartwatch,Eletrônicos,1.0,5999.9,Entregue
+1097,2026-09-18,101.0,Teclado Mecânico,Eletrônicos,2.0,8500.0,Pendente
+1098,2026-09-11,141.0,Teclado Mecânico,Acessórios,3.0,799.5,Entregue
+1099,2026-09-26,144.0,Fone de Ouvido,Acessórios,4.0,2100.0,Entregue
+1100,2026-10-07,105.0,Smartphone,Acessórios,1.0,850.0,Entregue
+1001,2026-06-25,109.0,Smartwatch,Eletrônicos,1.0,5999.9,Cancelado
+1002,2026-06-13,135.0,Smartwatch,Eletrônicos,3.0,8500.0,Entregue
+1003,2026-06-05,113.0,Smartwatch,Acessórios,3.0,799.5,Entregue
